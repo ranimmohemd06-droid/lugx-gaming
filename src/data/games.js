@@ -9,7 +9,7 @@ export const navLinks = [
 export const heroGame = {
   title: 'Featured Game',
   colors: ['#d9dde6', '#8f98ad'],
-  image: "public/banner-image.jpg",
+  image: "banner-image.jpg",
   price: 22,
   discount: 40,
 }
