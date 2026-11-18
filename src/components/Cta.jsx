@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Cover from './Cover'
 
-const ctaImage = { title: 'Pre-Order', colors: ['#7d8a8f', '#3a3f44'], image:'/images/cta.jpg'}
+const ctaImage = { title: 'Pre-Order', colors: ['#7d8a8f', '#3a3f44'], image:'images/cta.jpg'}
 
 function Cta() {
   const [email, setEmail] = useState('')
